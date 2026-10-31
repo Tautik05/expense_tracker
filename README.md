@@ -50,3 +50,4 @@ Add this server to your MCP configuration (e.g. `mcp_config.json` in Antigravity
 
 ### Resources
 - `expense://categories` - Returns category and subcategory definitions from `categories.json`.
+
